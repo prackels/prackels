@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Soliman</h1>
 <h3 align="center">Django Backend Developer</h3>
-
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
-
+<img align= "right" alt="Coding" width="400" src= "https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prackels&label=Profile%20views&color=0e75b6&style=flat" alt="prackels" /> </p>
 
