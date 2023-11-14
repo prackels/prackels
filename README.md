@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/mohamed-soliman-b1b0a521a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-soliman-b1b0a521a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22179974/mohamed-soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed-soliman" height="30" width="40" /></a>
 <a href="https://fb.com/prackels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prackels" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mohamed.soliman.0.1.0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohamed.soliman.0.1.0/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohamed.soliman.0.1.0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohamed.soliman.0.1.0/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
